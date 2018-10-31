@@ -1,5 +1,5 @@
 {
-    "name": "serpstat/sdk",
+    "name": "liserpstat/sdk",
     "description": "SDK for Serpstat API v3",
     "type": "library",
     "license": "MIT",
